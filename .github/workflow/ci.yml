@@ -1,4 +1,4 @@
-name: Meshery Adapter Template 
+name: SMI Conformance
 on:
   push:
     branches:
