@@ -1,6 +1,6 @@
 <p style="text-align:center;" align="center"><a href="https://layer5.io/meshery"><img align="center" style="margin-bottom:20px;" src="https://raw.githubusercontent.com/layer5io/layer5/master/assets/images/meshery/meshery-logo-tag-light-text-side.png"  width="70%" /></a><br /><br /></p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/layer5io/layer5.svg)
+[![GitHub contributors](https://img.shields.io/github/contributors/layer5io/smi-conformance.svg)](https://github.com/layer5io/smi-conformance/graphs/contributors)
 [![Docker Pulls](https://img.shields.io/docker/pulls/layer5/smi-conformance.svg)](https://hub.docker.com/r/layer5/smi-conformance)
 [![Go Report Card](https://goreportcard.com/badge/github.com/layer5io/smi-conformance)](https://goreportcard.com/badge/github.com/layer5io/smi-conformance)
 [![Build Status](https://github.com/layer5io/meshery/workflows/Meshery/badge.svg)](https://github.com/layer5io/meshery/actions)
