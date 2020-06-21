@@ -28,8 +28,8 @@ make setup-adapter ADAPTER=adapter PORT=12121 GO_VERSION=1.13.4
 
 __Please Note__: Do not include "meshery-" in the adapter name.
 
-# meshery-\<adapter>
-Meshery adapter for \<adapter>
+# SMI Conformance
+Validation of service mesh implementations and their adherence to the Service Mesh Interface (SMI) specifications.
 
 <p style="clear:both;">
 <h2><a href="https://layer5.io/meshery">Meshery</a></h2>
